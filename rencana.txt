@@ -5,6 +5,8 @@ rencana belajar mandiri
   -design (kalo memumgkinkan)
 -siang
   -turu
+  -makan
+  -mandi
 -malam
   -coding
   -korea
